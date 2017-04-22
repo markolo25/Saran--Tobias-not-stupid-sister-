@@ -1,0 +1,31 @@
+{
+  "name": "saran_natural_language_bot",
+  "version": "1.0.0",
+  "description": "saran a discord bot utilizing natural language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markolo25/Saran--Tobias-not-stupid-sister-.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "natural",
+    "language"
+  ],
+  "author": "EcroMark",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/markolo25/Saran--Tobias-not-stupid-sister-/issues"
+  },
+  "homepage": "https://github.com/markolo25/Saran--Tobias-not-stupid-sister-#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.0",
+    "discord.js": "^11.0.0",
+    "opusscript": "0.0.3",
+    "uws": "^0.14.1"
+  }
+}
